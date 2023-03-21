@@ -1,0 +1,15 @@
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\bin\Debug\net7.0\LemonEdge.Console.exe
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\bin\Debug\net7.0\LemonEdge.Console.deps.json
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\bin\Debug\net7.0\LemonEdge.Console.runtimeconfig.json
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\bin\Debug\net7.0\LemonEdge.Console.dll
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\bin\Debug\net7.0\LemonEdge.Console.pdb
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.csproj.AssemblyReference.cache
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.AssemblyInfoInputs.cache
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.AssemblyInfo.cs
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.csproj.CoreCompileInputs.cache
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.dll
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\refint\LemonEdge.Console.dll
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.pdb
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\LemonEdge.Console.genruntimeconfig.cache
+C:\Users\PranaySapa\source\repos\LemonEdge.Console\LemonEdge.Console\obj\Debug\net7.0\ref\LemonEdge.Console.dll
